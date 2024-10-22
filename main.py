@@ -124,5 +124,3 @@ while True:
 11.https://www.pygame.org/docs/ref/color.html#pygame.Color.a
 12.https://gamedevacademy.org/how-to-make-buttons-in-pygame-tutorial-complete-guide/
 '''
-
-
